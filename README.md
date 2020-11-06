@@ -15,7 +15,7 @@
 ### Full-stack Coding Bootcamp
 
 #### •	Full Stack Web Development- HTML, CSS, Javascript, Node, SQL, Git and command line, XML/JSON, HTTP and REST, Web Architecture and file structure, React
-#### •	Currently independently working on a Caregiver application designed to help seniors stay connected
+#### •	Currently working on a Caregiver application designed to help seniors stay connected
 
 ## Lakeland Community College Kirtland, OH
 ### Bioscience Technology, Associate of Applied Science
