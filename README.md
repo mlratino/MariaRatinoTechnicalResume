@@ -1,6 +1,7 @@
 # Maria Ratino Technical Resume
+<!-- #### CVs, resumes, and cred -->
 
-## CVs, resumes, and cred. Quality, detail-oriented individual with high care and concern commitment seeking accountability in a culture that provides caregiver tools to lead independent connected lives.
+## Quality, detail-oriented individual with high care and concern commitment seeking accountability within a professional culture that invests in training, support and tools for its employees  and encourages continuous learning, collaboration and growth at all levels.
 
 ## mlratino@gmail.com       
 ## Maria's LinkedIn https://www.linkedin.com/in/maria-ratino/       
