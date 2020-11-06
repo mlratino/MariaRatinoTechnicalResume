@@ -1,18 +1,23 @@
-# MariaRatinoTechnicalResume
-CVs, resumes, and cred
-Maria Ratino                                                                mlratino@gmail.com      Cell: 440 221 8325    Maria's LinkedIn         Maria's github  
+# Maria Ratino Technical Resume
+
+## CVs, resumes, and cred
+
+## mlratino@gmail.com       
+## Maria's LinkedIn https://www.linkedin.com/in/maria-ratino/       
+## Maria's github https://github.com/mlratino    
+## Maria's Portfolio https://github.com/mlratino/Ratino_Portfolio2020
 
 Quality, detail-oriented individual with high care and concern commitment seeking accountability in a culture that provides caregiver tools to lead independent connected lives.
 
-Education
+## Education
 
-Case Western Reserve Cleveland, OH
+### Case Western Reserve Cleveland, OH
 Full-stack Coding Bootcamp
 
 •	Full Stack Web Development- HTML, CSS, Javascript, Node, SQL, Git and command line, XML/JSON, HTTP and REST, Web Architecture and file structure, React
 •	Currently independently working on a Caregiver application designed to help seniors stay connected
 
-Lakeland Community College Kirtland, OH
+### Lakeland Community College Kirtland, OH
 Bioscience Technology, Associate of Applied Science
 
 •	PCR
@@ -28,12 +33,11 @@ Bioscience Technology, Associate of Applied Science
 •	Recombinant DNA Technology
 •	Statistical analysis, regulation and documentation
 
-Kent State University Kent, OH
-
+### Kent State University Kent, OH
 Fashion Design and Merchandising, Bachelor of Science
 
 
-Professional Summary
+## Professional Summary
 
 •	Uniquely qualified experience as a lab technician in USP and ASTM methods with proven success in biological, chemical, research and start up labs both production-focused or research-based
 •	Experience in trouble shooting and repairing, various types of instrumentation. Maintain calibration schedules and operate independently to source, validate, and secure services and success negotiating demo equipment from outside vendors
@@ -44,13 +48,13 @@ Professional Summary
 •	Experienced manager with marketing, sales, and promotional experience leading up to 20 people in several types of sales environments over ten years
 
 
-Professional Experience
+## Professional Experience
 
-Laboratory Technician, BTS, RCT October 2012 to 2019
+### Laboratory Technician, BTS, RCT October 2012 to 2019
 Lubrizol– Wickliffe, Ohio
 •	Internal Auditor- ANAB Certified to ISO/IEC 17025 
 
-•	Multi-tasking, production quality technician across dozens of ASTM methods, participating in audits and ILS studies to ensure that testing aligns with industry
+•	Multi-tasking, productive quality technician across dozens of ASTM methods, participating in audits and ILS studies to ensure that testing aligns with industry
 
 •	Identifies opportunities for waste reduction in the form of over-processing in high production quality setting. Executes sustainable improvements effectively and thoughtfully
 
@@ -66,28 +70,28 @@ Designed data entry systems and creating interfaces between instruments, LIMS an
 
 •	Executed sustainable process improvements supporting data integrity in relation to temperature, data reporting, and efficiency across all areas 
 
-Research Technician January 2012 to June 2012
+### Research Technician January 2012 to June 2012
 Phycal, Logos Energy – Highland Heights, OH
 Plate to pond algae production for purification adhering research standards to and creating documentation that improved training, yield, and data integrity
 
 
-Sales Support Specialist October 2011 to December 2011
+### Sales Support Specialist October 2011 to December 2011
 National Biochemical Corp – Twinsburg, OH
 Customer service and sales support. Standardization of data compilation using Excel
 
-Quality Control Lab Technician 
+### Quality Control Lab Technician 
 Ben Venue Laboratory contracted through Alliance – Bedford, OH
 In-process production and quality raw material testing and stability as prescribed through the USP. Direct reporting experience with the FDA
 
-Research Assistant 
+### Research Assistant 
 Case Western Reserve University – Cleveland, OH
 Functional and structural studies of TRP channels in yeast. Protein expression, lab manager responsible for initial set up of lab testing, process documentation, and supply and instrument acquisition
 
-Intern 
+### Intern 
 Steris – Mentor, OH
 Sterilization study, documentation and data collection
 
-Territory Sales 
+### Territory Sales 
 American Greetings – Cleveland, Ohio
 Managed approximately 20 merchandisers across a territory meeting sales and budget goals, staffing and setting dozens of card departments in challenging environments. Special promotions and creative design
 
